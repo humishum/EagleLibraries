@@ -1,2 +1,2 @@
 # EagleLibraries
-All the EAGLECAD libraries I use
+Collection of EagleCAD libraries I use for board/PCB development + a few self-designed parts
